@@ -1,0 +1,5 @@
+#written by FileProperties
+#Sat Sep 16 13:07:11 JST 2023
+month=4
+year=2004
+day=21
